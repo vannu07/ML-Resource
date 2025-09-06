@@ -44,13 +44,13 @@
    - [Deep Learning by Google](https://br.udacity.com/course/deep-learning--ud730) - free course
    - [Colah's Blog on Deep Learning](http://colah.github.io/)
 
-3. [DataSets](#3-datasets) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
+3.[DataSets](#3-datasets) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
 
-4. [Data Science Conference](#4-data-science-confs) ![Meetup](https://img.shields.io/badge/Meetup-f64363?style=flat&logo=meetup&logoColor=white)
+4.[Data Science Conference](#4-data-science-confs) ![Meetup](https://img.shields.io/badge/Meetup-f64363?style=flat&logo=meetup&logoColor=white)
 
 5.[Celebrities in ML and AI world](#5-celebrities-in-ml-and-ai-world) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-6. [Tips for ML & AI enthusiasts](#6-ml-ai-tips)
+6.[Tips for ML & AI enthusiasts](#6-ml-ai-tips)
  ![LightBulb](https://img.shields.io/badge/tips-yellow?style=flat)
 
 7.[Pandas](#7-pandas) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
