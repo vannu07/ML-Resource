@@ -26,7 +26,7 @@
 
 ## Table of Contents
 
-1. **Machine Learning** ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+1.[Machine Learning](#1--machine-learning) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
    - [Where to Start in ML?](#11-where-to-start-in-ml)
    - [Online Courses](#12-online-courses)
    - [Research Paper](#13-research-paper)
@@ -36,7 +36,7 @@
    - [Stanford Statistical Learning Course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
    - [Machine Learning by Georgia Tech](https://br.udacity.com/course/machine-learning--ud262) - free course
 
-2. **Deep Learning** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+2.[Deep Learning](#2--deep-learning) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
    - [Where to Start in DL?](#21-where-to-start-in-dl)
    - [Online Courses](#21-where-to-start-in-dl)
    - [Research Paper](https://arxiv.org/list/stat.ML/recent)
