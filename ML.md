@@ -26,7 +26,7 @@
 
 ## Table of Contents
 
-1.[Machine Learning](#1--machine-learning) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+1. **Machine Learning** ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
    - [Where to Start in ML?](#11-where-to-start-in-ml)
    - [Online Courses](#12-online-courses)
    - [Research Paper](#13-research-paper)
@@ -36,7 +36,7 @@
    - [Stanford Statistical Learning Course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
    - [Machine Learning by Georgia Tech](https://br.udacity.com/course/machine-learning--ud262) - free course
 
-2.[Deep Learning](#2--deep-learning) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+2. **Deep Learning** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
    - [Where to Start in DL?](#21-where-to-start-in-dl)
    - [Online Courses](#21-where-to-start-in-dl)
    - [Research Paper](https://arxiv.org/list/stat.ML/recent)
@@ -44,24 +44,24 @@
    - [Deep Learning by Google](https://br.udacity.com/course/deep-learning--ud730) - free course
    - [Colah's Blog on Deep Learning](http://colah.github.io/)
 
-3.[DataSets](#3-datasets) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
+3. **DataSets** ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
 
-4.[Data Science Conference](#4-data-science-confs) ![Meetup](https://img.shields.io/badge/Meetup-f64363?style=flat&logo=meetup&logoColor=white)
+4. **Data Science Conference** ![Meetup](https://img.shields.io/badge/Meetup-f64363?style=flat&logo=meetup&logoColor=white)
 
-5.[Celebrities in ML and AI world](#5-celebrities-in-ml-and-ai-world) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+5. **Celebrities in ML and AI world** ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-6.[Tips for ML & AI enthusiasts](#6-ml-ai-tips)
+6. **Tips for ML & AI enthusiasts**(#6-ml-ai-tips)
  ![LightBulb](https://img.shields.io/badge/tips-yellow?style=flat)
 
-7.[Pandas](#7-pandas) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+7. **Pandas** ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
    - [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
    - [Pandas Tutorial | Kaggle](https://www.kaggle.com/junaaaaloo/pandas-tutorial)
    - [Grouping and Aggregation Guide](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
 
-8.[Online Mathematical Resources](#8-maths-online-resources) ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat&logo=wolfram&logoColor=white)
+8. **Online Mathematical Resources** ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat&logo=wolfram&logoColor=white)
    - [Create straight line by slope and y-intercept](https://www.desmos.com/calculator/5kn5x8f7zk)
 
-9.[Frameworks](#9-frameworks)
+9. **Frameworks**
    - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) [Tensorflow](https://tensorflow.org)
    - ![Caffe](https://img.shields.io/badge/Caffe-8B4513?style=flat) [Caffe](http://caffe.berkeleyvision.org/)
    - ![Caffe2](https://img.shields.io/badge/Caffe2-8B4513?style=flat) [Caffe2](https://caffe2.ai/)
