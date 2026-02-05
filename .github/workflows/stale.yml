@@ -26,8 +26,12 @@ jobs:
           If you believe this issue is still important, please add a comment with any updates or additional details.
           Any new activity will remove the stale label and keep the issue open; otherwise, it may be closed automatically.
         stale-pr-message: |
-          This pull request has been automatically marked as stale because there has been no recent activity.
-          If you intend to continue working on this change, please add a comment, push new commits, or otherwise update the pull request.
-          Any new activity will remove the stale label and keep the pull request open; otherwise, it may be closed automatically.
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        days-before-stale: 60
+        days-before-close: 7
+        stale-issue-message: 'Stale issue message'
+        stale-pr-message: 'Stale pull request message'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
+        exempt-issue-labels: 'pinned,security,never-stale'
+        exempt-pr-labels: 'pinned,security,never-stale'
